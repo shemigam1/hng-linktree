@@ -160,7 +160,12 @@ footer {
 
 @media screen and (max-width: 375px) {
   .footer {
-    display: none;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0;
   }
   .App {
     display: flex;
