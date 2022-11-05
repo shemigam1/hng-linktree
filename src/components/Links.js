@@ -68,7 +68,7 @@ function Links() {
         </div>
       ))}
       <div className="link">
-        <Link to="/contact" target="_blank" id="contact" className="btn">
+        <Link to="/contact" id="contact" className="btn">
           Contact
         </Link>
       </div>
