@@ -30,7 +30,7 @@ function Contact() {
             </div>
           </div>
           <div className="email">
-            <label id="email">email</label>
+            <label id="email">Email</label>
             <input className="input" placeholder="yourname@email.com" />
           </div>
           <div className="message">
@@ -45,7 +45,7 @@ function Contact() {
             ></textarea>
           </div>
           <div className="row">
-            <input type="checkbox" name="" id="" />
+            <input type="checkbox" name="" id="checkbox" />
             <label htmlFor="" id="checkbox-label">
               You agree to provide your data to Semilore who may contact you.
             </label>
