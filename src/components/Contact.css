@@ -1,16 +1,10 @@
 .form {
-  /* width: 100vw;
-  height: 100vh; */
-  /* padding: 92px auto; */
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .main {
-  /* margin: 92px auto; */
-  /* width: 100%; */
-  /* border: 1px solid black; */
   gap: 64px;
   display: flex;
   flex-direction: column;
