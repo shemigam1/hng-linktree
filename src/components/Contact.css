@@ -10,14 +10,16 @@
 .main {
   /* margin: 92px auto; */
   /* width: 100%; */
-  border: 1px solid black;
+  /* border: 1px solid black; */
   gap: 64px;
   display: flex;
   flex-direction: column;
   gap: 30px;
   padding: 20px 32px;
-  width: 1280px;
+  width: 1016px;
   height: 800px;
+  margin-top: 20px;
+  margin-bottom: 0px;
 }
 p {
   font-weight: 600;
@@ -63,7 +65,7 @@ label {
 }
 
 textarea {
-  height: 250px;
+  height: 150px;
   width: 100%;
   border-radius: 10px;
 }

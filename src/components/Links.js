@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 import "./reset.css";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 function Links() {
   const links = [
